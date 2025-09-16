@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH Basic App GithubDev", "JH Basic App GithubDev\JH Basic App GithubDev.csproj", "{21967D3F-9FC2-4DA1-8149-1600605234ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JH_Basic_App_Core.Tests", "JH_Basic_App_Core.Tests\JH_Basic_App_Core.Tests.csproj", "{E3BF2FFE-EDC5-43C8-B6B6-8D8BFEC24B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21967D3F-9FC2-4DA1-8149-1600605234ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21967D3F-9FC2-4DA1-8149-1600605234ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21967D3F-9FC2-4DA1-8149-1600605234ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21967D3F-9FC2-4DA1-8149-1600605234ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BF2FFE-EDC5-43C8-B6B6-8D8BFEC24B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BF2FFE-EDC5-43C8-B6B6-8D8BFEC24B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BF2FFE-EDC5-43C8-B6B6-8D8BFEC24B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BF2FFE-EDC5-43C8-B6B6-8D8BFEC24B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B64E72-691F-46BC-A72C-4EC34586A855}
+	EndGlobalSection
+EndGlobal
